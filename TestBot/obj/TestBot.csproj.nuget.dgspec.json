@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juan\\Downloads\\TestBot\\TestBot.csproj": {}
+    "C:\\Users\\Juan\\Downloads\\gc-asistentes-virtuales-sesion6\\TestBot\\TestBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juan\\Downloads\\TestBot\\TestBot.csproj": {
+    "C:\\Users\\Juan\\Downloads\\gc-asistentes-virtuales-sesion6\\TestBot\\TestBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan\\Downloads\\TestBot\\TestBot.csproj",
+        "projectUniqueName": "C:\\Users\\Juan\\Downloads\\gc-asistentes-virtuales-sesion6\\TestBot\\TestBot.csproj",
         "projectName": "TestBot",
-        "projectPath": "C:\\Users\\Juan\\Downloads\\TestBot\\TestBot.csproj",
+        "projectPath": "C:\\Users\\Juan\\Downloads\\gc-asistentes-virtuales-sesion6\\TestBot\\TestBot.csproj",
         "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan\\Downloads\\TestBot\\obj\\",
+        "outputPath": "C:\\Users\\Juan\\Downloads\\gc-asistentes-virtuales-sesion6\\TestBot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config",

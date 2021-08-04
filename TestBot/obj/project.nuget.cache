@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yk+kGwANAjsUHyQXYcViUc17Akr33vBNgyBx6BbEC3umy03woec9JfsSdnUwX+gQhcwIf5cVXZRxvGjg0Qra3A==",
+  "dgSpecHash": "TPcFa7w68zY7+k6g94MhBpFbSJ8/SIKPxWib2NndKDTGalWdz8uBQTwh+je/ux+LHSLUohw23SnQ2prYe5WyJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Juan\\Downloads\\TestBot\\TestBot.csproj",
+  "projectFilePath": "C:\\Users\\Juan\\Downloads\\gc-asistentes-virtuales-sesion6\\TestBot\\TestBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Juan\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",
     "C:\\Users\\Juan\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.1\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512",
